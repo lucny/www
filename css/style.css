@@ -13,3 +13,16 @@ main {
     width: 1200px;
     margin: 0 auto;
 }
+
+.otazka {
+    color: rgb(21, 67, 88);
+    background-color: #ddd;
+    padding: 1em;
+    font-size: 1.2em;
+    margin: 1em 0;
+}
+
+.odpoved {
+    border-left: 10px solid #aaa;
+    padding-left: 20px;
+}
