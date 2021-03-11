@@ -1,5 +1,6 @@
 # World Wide Web
-Výuková stránka o WWW
+- Výuková stránka o WWW
+- Otázky a odpovědi
 
 ## Git: Znovupropojení HEAD s větví main
 1. git checkout -b temp
