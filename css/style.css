@@ -26,3 +26,37 @@ main {
     border-left: 10px solid #aaa;
     padding-left: 20px;
 }
+
+table, td, th {
+    border-width: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 5px 50px;
+}
+
+th {
+    background-color: darkslategray;
+    color: rgb(238, 238, 238);
+}
+
+.error {
+    background-color: rgb(173, 16, 16);
+    color: rgb(238, 238, 238);
+}
+
+caption {
+    font-size: 1.2em;
+    background-color: rgb(48, 31, 109);
+    color: #eee;
+    padding: 10px;
+}
+
+ol#search {
+    list-style-type: upper-roman;
+}
+
+ol#search ul {
+    list-style-type: square;
+}
